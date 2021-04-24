@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Pranjal Bhadu!
+
+<img src="https://img.shields.io/twitter/follow/BhaduPranjal?style=social">
 
 <!--
 **pranjalBhadu/pranjalBhadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
