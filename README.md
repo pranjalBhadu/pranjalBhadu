@@ -7,6 +7,12 @@
 <p>🌱 I’m currently learning React</p>
 <p>📚 Apart from academic interests I love writing poetry, reading literature books, and listening to music.</p>
 
+---
+
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML logo"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="50" width="50" alt="CSS logo"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript logo"/> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="50" width="50" alt="C++ logo"/>
+
 <!--
 **pranjalBhadu/pranjalBhadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
