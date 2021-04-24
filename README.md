@@ -13,6 +13,14 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML logo"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="50" width="50" alt="CSS logo"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript logo"/> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="50" width="50" alt="C++ logo"/>
 
+---
+
+📊 My GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=pranjalBhadu&show_icons=true&theme=radical"/> 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=PranjalBhadu&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalBhadu&show_icons=true&theme=radical"/>
+
 <!--
 **pranjalBhadu/pranjalBhadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
