@@ -3,8 +3,9 @@
 <img src="https://img.shields.io/twitter/follow/BhaduPranjal?style=social">
 
 <p>👩🏻‍💻 A Computer Engineering undergrad.</p>
-<p>🔭 I’m currently working on improving my profile with work that interests me.</p>
-<p>🌱 I’m currently learning React</p>
+<p>😄 Pronouns: She/Her </p>
+<p>🔭 I’m currently working on improving my Data Structure and Algorithm skills.</p>
+<p>🌱 I’m currently learning AI and ML technologies for working on personal projects</p>
 <p>📚 Apart from academic interests I love writing poetry, reading literature books, and listening to music.</p>
 
 ---
